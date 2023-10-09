@@ -1,3 +1,7 @@
+## Links
+
+https://blog.apnic.net/2023/09/25/why-http-3-is-eating-the-world/
+
 # Summary
 
 QUIC (Quick UDP Internet Connections) and HTTP/3 are two related technologies that aim to improve the performance and security of web communication. Let's break down what they are and how they work:
